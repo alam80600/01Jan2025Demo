@@ -1,7 +1,3 @@
 this is a sample content..!
 
-hiii
-hjnj
-kfk
-g
-ls
+this is 2nd commit 
